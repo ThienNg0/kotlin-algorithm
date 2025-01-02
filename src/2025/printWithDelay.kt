@@ -1,3 +1,6 @@
+
+
+
 fun main() {
     val message = "🎉 Chúc Mừng Năm Mới 2025 🎆\nChúc bạn một năm tràn đầy hạnh phúc và thành công! 🌟"
     printWithDelay(message, 100) // Hiển thị từng ký tự với độ trễ 100ms
