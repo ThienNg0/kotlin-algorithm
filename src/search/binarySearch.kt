@@ -1,5 +1,6 @@
 package search
 
+// tim kiem nhi phan
 fun binarySearch(arr: IntArray, target: Int): Int {
     var left = 0
     var right = arr.size - 1
