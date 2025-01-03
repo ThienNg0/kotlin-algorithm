@@ -1,5 +1,4 @@
-
-
+package `2025`
 
 fun main() {
     val message = "🎉 Chúc Mừng Năm Mới 2025 🎆\nChúc bạn một năm tràn đầy hạnh phúc và thành công! 🌟"
